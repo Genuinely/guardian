@@ -1,5 +1,5 @@
 ### Guardian
-A project to get a live transcription of a Twilio phone number using OpenAI Realtime API. Built for BridgeGood 2025 AI for social good hackathon to adress scam calls to seniors.
+A project to get a live transcription of a Twilio phone number using OpenAI Realtime API. Built for BridgeGood 2025 AI for social good hackathon to address scam calls to seniors.
 
 ### Stack
 * Vite for frontend
