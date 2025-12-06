@@ -27,4 +27,4 @@ Finally, `cd frontend` and then
 ### User Flow
 When you call the twilio number and click on the notification, you should see a live transcript highlighting keywords that can signal a scam. Afterwards, you can see a report. 
 
-A Loom walking through the flow is upcoming.
+Here is a loom demonstrating the flow: https://www.loom.com/share/f909d255931c41aeb77228fc34e65b9c
